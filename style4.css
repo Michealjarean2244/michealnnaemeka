@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  /* background-image: url(/css/pexels-julius-silver-753331.jpg);
+  /* background-image: url(pexels-julius-silver-753331.jpg);
   background-repeat: no-repeat;
   background-size: contain; */
   font-family: var(--font-style);
@@ -24,7 +24,7 @@ body {
   width: 486px;
   padding: 40px;
   transform: translate(-50%, -50%);
-  background-image: url(/css/pexels-worldspectrum-843700.jpg);
+  background-image: url(pexels-worldspectrum-843700.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   box-shadow: 0 15px 25px rgba(143, 124, 236, 0.7);
