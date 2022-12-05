@@ -49,6 +49,11 @@ input {
   background: #e0e0e0;
   box-shadow: 4px 4px 6px #c3c3c3, -4px -4px -6px #fdfdfd;
 }
+@media (max-width: 850px) {
+  input {
+    font-size: small;
+  }
+}
 input:focus {
   outline: none;
   border-color: #9ecaed;
