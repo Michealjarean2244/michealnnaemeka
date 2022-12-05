@@ -15,6 +15,7 @@ body {
   backdrop-filter: saturation;
   animation: fadeIn 5s;
 }
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
@@ -29,7 +30,7 @@ body {
   padding: 10rem 0;
   color: #fff;
   background-color: #fff;
-  border-radius: 1rem;
+  border-radius: 0.9rem;
   box-shadow: 0 1px 1rem rgba(0, 0, 0, 0.1);
   isolation: isolate;
 }
