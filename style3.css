@@ -103,7 +103,7 @@ i {
   transition: all 1s;
 }
 .btn:hover i {
-  transform: rotate(36odeg);
+  transform: rotate(360deg);
 }
 .btn:hover {
   width: 150px;

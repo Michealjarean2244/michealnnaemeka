@@ -30,6 +30,11 @@ body {
   box-shadow: 0 15px 25px rgba(143, 124, 236, 0.7);
   border-radius: 10px;
 }
+@media (max-width: 600px) {
+  .login-box {
+    max-width: 486px;
+  }
+}
 .login-box h2 {
   margin: 0 0 30px;
   padding: 0;
